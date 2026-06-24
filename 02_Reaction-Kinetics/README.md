@@ -1,14 +1,15 @@
-Lesson 00: Intro to Google Colab, Python, and Gemini
+Lesson 02: Reaction Kinetics of Organic Reactions
 =======================
 
-The purpose of this lesson is to introduce students to Google Colab, Gemini, and Python programming language.
+The purpose of this lesson is for students to read, interpret, and analyze kinetics data for organic reactions.
 
 ## Lesson Information
 ### Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
-1. Analyze how volume varies with temperature.
-2. Graph volume vs. temperature and interpret slope and intercept.
-3. Derive the relationship and connect it to the Ideal Gas Law (PV = nRT).
+1. Represent concentration data in tables and graphs.
+2. Predict half-life for 1st- and 2nd-order reactions.
+3. Model and compare 1st- and 2nd-order rate laws using Python.
+4. Use models to identify reaction order by matching theoretical and experimental data.
 
 ### Cyberinfrastructure Prerequisites
 
@@ -19,7 +20,8 @@ Students will use Google Colab and Gemini. No prior programming experience is re
 Before beginning this lesson, students are expected to be familiar with the
 following content topics:
 
-* Ideal Gas Laws
+* Kinetics: reaction rate laws
+* Kinetics: Integrated rate laws
 
 ### Resources
 
@@ -44,7 +46,7 @@ Also provided to support adopting instructors are
 - `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
 - 'Student.docx': Student version of the recitation worksheet 
 - 'Instructor-key.docx': Answer key to the recitation worksheet, provided for teaching and learning assistants.
-- 'Gas-data.csv': Data file for the activity
+- 'Molecule-data.csv': Data file for the activity
 
 See the `instructor-notes.ipynb` For more information about implementation
 strategies from the lesson author.

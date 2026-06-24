@@ -1,15 +1,14 @@
-Lesson 01: Reaction Kinetics of Organic Reactions
+Lesson 04: Titration Curves of Common Acids
 =======================
 
-The purpose of this lesson is for students to read, interpret, and analyze kinetics data for organic reactions.
+The purpose of this lesson is for students to read, interpret, and analyze titration data of common household acids with a strong base.
 
 ## Lesson Information
 ### Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
-1. Represent concentration data in tables and graphs.
-2. Predict half-life for 1st- and 2nd-order reactions.
-3. Model and compare 1st- and 2nd-order rate laws using Python.
-4. Use models to identify reaction order by matching theoretical and experimental data.
+1. Identify key features of titration curves (buffer region, half-equivalence point, equivalence point) for weak acids.
+2. Compare titration curves of polyprotic vs monoprotic acids, and match unknowns to reference curves.
+3. Use curve shape and equivalence behavior to determine 𝑝𝐾𝑎 and identify an unknown acid.
 
 ### Cyberinfrastructure Prerequisites
 
@@ -20,8 +19,8 @@ Students will use Google Colab and Gemini. No prior programming experience is re
 Before beginning this lesson, students are expected to be familiar with the
 following content topics:
 
-* Kinetics: reaction rate laws
-* Kinetics: Integrated rate laws
+* Acid-base equilibrium
+* Buffers and Titration
 
 ### Resources
 
@@ -46,7 +45,7 @@ Also provided to support adopting instructors are
 - `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
 - 'Student.docx': Student version of the recitation worksheet 
 - 'Instructor-key.docx': Answer key to the recitation worksheet, provided for teaching and learning assistants.
-- 'Molecule-data.csv': Data file for the activity
+- 'Acids-data.csv': Data files for the activity
 
 See the `instructor-notes.ipynb` For more information about implementation
 strategies from the lesson author.

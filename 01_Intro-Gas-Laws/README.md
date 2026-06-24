@@ -1,14 +1,14 @@
-Lesson 02: Reaction Kinetics of Drug Degradation
+Lesson 01: Intro to Google Colab, Python, and Gemini
 =======================
 
-The purpose of this lesson is for students to read, interpret, and analyze kinetics data for drug degradation in aqueous solutions.
+The purpose of this lesson is to introduce students to Google Colab, Gemini, and Python programming language.
 
 ## Lesson Information
 ### Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
-1. Interpret and compare rate constants across temperatures and pHs values.
-2. Model 𝑘 vs. 𝑇 and ln𝑘 vs. 1/𝑇 at different pHs.
-3. Relate slopes and y-intercept to activation energies 𝐸𝑎 and frequency factor 𝐴.
+1. Analyze how volume varies with temperature.
+2. Graph volume vs. temperature and interpret slope and intercept.
+3. Derive the relationship and connect it to the Ideal Gas Law (PV = nRT).
 
 ### Cyberinfrastructure Prerequisites
 
@@ -19,12 +19,7 @@ Students will use Google Colab and Gemini. No prior programming experience is re
 Before beginning this lesson, students are expected to be familiar with the
 following content topics:
 
-* Kinetics: factors affecting rate
-* Kinetics: Arrhenius equation
-
-### References
-
-Drug data taken from Sun et al., Journal of Pharmaceutical Analysis (2019), Vol. 9, 423 - 430, https://doi.org/10.1016/j.jpha.2018.08.002
+* Ideal Gas Laws
 
 ### Resources
 
@@ -49,7 +44,7 @@ Also provided to support adopting instructors are
 - `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
 - 'Student.docx': Student version of the recitation worksheet 
 - 'Instructor-key.docx': Answer key to the recitation worksheet, provided for teaching and learning assistants.
-- 'Drug-data.csv': Data file for the activity
+- 'Gas-data.csv': Data file for the activity
 
 See the `instructor-notes.ipynb` For more information about implementation
 strategies from the lesson author.

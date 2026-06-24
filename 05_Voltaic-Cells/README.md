@@ -1,4 +1,4 @@
-Lesson 04: Impact of Concentrations on Voltaic Cell Potentials
+Lesson 05: Impact of Concentrations on Voltaic Cell Potentials
 =======================
 
 The purpose of this lesson is for students to perform data modeling for a voltaic cell under different conditions.
