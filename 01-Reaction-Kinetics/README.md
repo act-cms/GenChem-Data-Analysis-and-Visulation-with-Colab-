@@ -1,18 +1,18 @@
 Lesson 01: Reaction Kinetics
 =======================
 
-The purpose of this lesson is for students to practice data modeling for kinetic rate laws in a 75-minutes recitation/class session. 
+The purpose of this lesson is for students to practice data modeling for kinetic rate laws.
 
 ## Lesson Information
 ### Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
-1. Show theoretical reactant concentrations in a table and in a graph. Predict the half-life of first or second order reaction from concentration/time data.
-2. Visualize the differences between 1st and 2nd order kinetic rate laws using Python modeling.
-3. Discriminate between theoretically generated models to determine which one best matches the experimental data. Determine the reaction orders by comparing the experimental and theoretical graphs.
+1. Represent concentration data in tables and graphs, and predict half-life for 1st- and 2nd-order reactions.
+2. Model and compare 1st- and 2nd-order rate laws using Python.
+3. Use models to identify reaction order by matching theoretical and experimental data.
 
 ### Cyberinfrastructure Prerequisites
 
-Students will use Google Colab, Gemini, and Python programming language to read, interpret, and analyze provided experimental data. Before beginning this lesson, students are not expected to have any experience with programming. 
+Students will use Google Colab, Gemini, and Python to read, interpret, and analyze experimental data. No prior programming experience is required. 
 
 ### Content Prerequisites
 
@@ -30,7 +30,7 @@ following content topics:
 
 ### AI Use Disclosure
 
-Google Gemini was used to improve clarity and organization of the Module's written text.
+Google Gemini was used to improve clarity and organization of the activity’s written instructions.
 
 ## Lesson Versions & Intended Modalities
 
@@ -38,7 +38,7 @@ One version of this lesson is provided, along with its intended modality of inst
 
 | Modality     | Pedagogy                | Role of Instructor                                                       | Lesson Version            |
 |--------------|-------------------------|---------------------------------------------------------------------------|--------------------------|
-| Synchronous  | LiveCoding              | Demonstrate & narrate process, control pacing, etc.                      | `student.ipynb` |
+| Synchronous  | Guided Inquiry Learning | Facilitate student process, answer questions, ensure nobody falls behind | `student.ipynb`  |
 
 Also provided to support adopting instructors are
 - `instructor-key.ipynb`: Instructor "key" notebook with completed code cells
