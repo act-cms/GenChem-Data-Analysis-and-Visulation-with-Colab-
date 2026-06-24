@@ -1,18 +1,19 @@
-Lesson 01: Reaction Kinetics
+Lesson 01: Reaction Kinetics of Organic Reactions
 =======================
 
-The purpose of this lesson is for students to practice data modeling for kinetic rate laws.
+The purpose of this lesson is for students to read, interpret, and analyze kinetics data for organic reactions.
 
 ## Lesson Information
 ### Lesson Learning Outcomes
 At the end of this lesson, students will be able to...
-1. Represent concentration data in tables and graphs, and predict half-life for 1st- and 2nd-order reactions.
-2. Model and compare 1st- and 2nd-order rate laws using Python.
-3. Use models to identify reaction order by matching theoretical and experimental data.
+1. Represent concentration data in tables and graphs.
+2. Predict half-life for 1st- and 2nd-order reactions.
+3. Model and compare 1st- and 2nd-order rate laws using Python.
+4. Use models to identify reaction order by matching theoretical and experimental data.
 
 ### Cyberinfrastructure Prerequisites
 
-Students will use Google Colab, Gemini, and Python to read, interpret, and analyze experimental data. No prior programming experience is required. 
+Students will use Google Colab and Gemini. No prior programming experience is required. 
 
 ### Content Prerequisites
 
@@ -30,7 +31,7 @@ following content topics:
 
 ### AI Use Disclosure
 
-Google Gemini was used to improve clarity and organization of the activity’s written instructions.
+Microsoft Copilot was used to improve clarity and organization of the activity’s written instructions.
 
 ## Lesson Versions & Intended Modalities
 
@@ -42,10 +43,10 @@ One version of this lesson is provided, along with its intended modality of inst
 
 Also provided to support adopting instructors are
 - `instructor-key.ipynb`: Instructor "key" notebook with completed code cells
-- 'Acetaldehyde.csv': Data file for the activity
+- `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
 - 'Student.docx': Student version of the recitation worksheet 
 - 'Instructor-key.docx': Answer key to the recitation worksheet, provided for teaching and learning assistants.
-- `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
+- 'Molecule-data.csv': Data file for the activity
 
 See the `instructor-notes.ipynb` For more information about implementation
 strategies from the lesson author.
