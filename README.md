@@ -1,9 +1,9 @@
 Lesson/Module Title
 ===================
 
-This module is designed to introduce students to use Google Colab and Gemini for data analysis and visualization in a general chemistry course. The overall goals of these activities are to familiarize students with Python syntax and its scientific libraries, and improve students’ AI prompt skills when solving chemistry problems. 
+This module is designed to introduce students to use AI tools (Google Colab + Gemini) for data analysis and visualization in a second-semester general chemistry course. The overall goals of these activities are to familiarize students with Python syntax and its scientific libraries, and improve students’ AI prompt skills when solving chemistry problems. 
 
-The module contains five lessons, and each lesson is designed for a 75-minutes recitation class. The activities are best run in a synchronous guide-inquiry environment, ideally with a few Tasks and/or LAs to facilitate the group activities. The first  lesson is intended to be used as an Intro activity to show the students the workflow and is done at the beginning of the semester. The other four lessons are independent and can be used sequentially or in no specific order, depending on the course curriculum. 
+The module contains five lessons, and each lesson is designed for a 75-minutes recitation class. The activities are best run in a synchronous guide-inquiry environment, ideally with a few TAs and/or LAs to facilitate the group activities. The first  lesson is intended to be used as an Intro activity to show the students the workflow and is done at the beginning of the semester. The other four lessons are independent and can be used sequentially or in no specific order, depending on the course curriculum. 
 
 
 ## Lesson/Module Contents
@@ -12,7 +12,7 @@ This module contains five lessons:
 
 1. Intro to Google Colab, Python, and Gemini
     * Directory: `01_Intro-Gas-Laws`
-    * Description: This lesson introduces students to Google Colab, Gemini, and Python programming language in the context of ideal gas laws.
+    * Description: This lesson introduces students to use Google Colab and Gemini in the context of ideal gas laws.
 
 2. Reaction Kinetics of Organic Reactions
     * Directory: `02_Reaction-Kinetics

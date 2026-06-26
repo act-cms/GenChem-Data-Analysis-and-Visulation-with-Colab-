@@ -47,8 +47,8 @@ One version of this lesson is provided, along with its intended modality of inst
 Also provided to support adopting instructors are
 - `instructor-key.ipynb`: Instructor "key" notebook with completed code cells
 - `instructor-notes.ipynb`: Author notes for adopting instructors, including implementation strategies, common issues & workarounds, piloting notes, etc.
-- 'Student.docx': Student version of the recitation worksheet 
-- 'Instructor-key.docx': Answer key to the recitation worksheet, provided for teaching and learning assistants.
+- 'Student.pdf': Student version of the recitation worksheet 
+- 'Instructor-key.pdf': Answer key to the recitation worksheet, provided for teaching and learning assistants.
 - 'Cell-data.csv': Data files for the activity
 
 See the `instructor-notes.ipynb` For more information about implementation
